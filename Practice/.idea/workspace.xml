@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="734a1b88-760c-480d-a914-c89dc4d87d5f" name="Default" comment="" />
+    <list default="true" id="734a1b88-760c-480d-a914-c89dc4d87d5f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heap/KthLargestInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/BFS/JumpGame 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/META-INF/Practice.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Trees/PathSum 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Trees/SumRootToLeafNumbers 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KthLargestInAStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heap/KthLargestInAStream.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +24,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1QtyRB8tvANVaAw9aVgLYcVOkZq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -37,20 +51,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TopKFrequentElements">
+  <component name="RunManager" selected="Application.KthLargestInArray">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.SearchInsertPosition" />
+    <configuration name="KthLargestInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heap.KthLargestInArray" />
       <module name="Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,19 +160,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SearchInsertPosition" />
       <item itemvalue="Application.UniquePaths" />
       <item itemvalue="Application.UniquePathsII" />
       <item itemvalue="Application.SpiralMatrix" />
       <item itemvalue="Application.TopKFrequentElements" />
+      <item itemvalue="Application.KthLargestInArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KthLargestInArray" />
         <item itemvalue="Application.TopKFrequentElements" />
         <item itemvalue="Application.SpiralMatrix" />
         <item itemvalue="Application.UniquePathsII" />
         <item itemvalue="Application.UniquePaths" />
-        <item itemvalue="Application.SearchInsertPosition" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +188,17 @@
       <updated>1556847704850</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
