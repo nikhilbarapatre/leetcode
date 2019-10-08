@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="734a1b88-760c-480d-a914-c89dc4d87d5f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/MinimumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/RemoveDuplicatesFromSortedArrayII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/SearchInRotatedSortedArrayII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/SumOfRootToLeafBinary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/KthLargestInAStream.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicatesFromSortedArrayII">
+  <component name="RunManager" selected="Application.SearchInRotatedSortedArrayII">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -96,13 +95,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS.SpiralMatrix" />
+    <configuration name="SearchInRotatedSortedArrayII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.SearchInRotatedSortedArrayII" />
       <module name="Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFS.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,19 +155,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SpiralMatrix" />
       <item itemvalue="Application.TopKFrequentElements" />
       <item itemvalue="Application.KthLargestInArray" />
       <item itemvalue="Application.MinimumPathSum" />
       <item itemvalue="Application.RemoveDuplicatesFromSortedArrayII" />
+      <item itemvalue="Application.SearchInRotatedSortedArrayII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchInRotatedSortedArrayII" />
         <item itemvalue="Application.RemoveDuplicatesFromSortedArrayII" />
         <item itemvalue="Application.MinimumPathSum" />
         <item itemvalue="Application.KthLargestInArray" />
         <item itemvalue="Application.TopKFrequentElements" />
-        <item itemvalue="Application.SpiralMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +189,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
