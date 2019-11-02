@@ -39,11 +39,4 @@ public class BinaryTreeInorder {
         }
         return result;
     }
-
-    //Iterative Alternative
-
-//    public List<Integer> bTreeInorederItr(TreeNode root){
-//        List<Integer> result = new ArrayList<>();
-//
-//    }
 }
