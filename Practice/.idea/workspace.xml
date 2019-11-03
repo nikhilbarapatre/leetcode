@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="734a1b88-760c-480d-a914-c89dc4d87d5f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/FirstAndLastPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sqrt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/LetterCombinationsOfPhoneNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trees/BinaryTreeInorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trees/BinaryTreeInorder.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sqrt">
+  <component name="RunManager" selected="Application.LetterCombinationsOfPhoneNumber">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -69,13 +66,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumSizeSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.MinimumSizeSubarraySum" />
+    <configuration name="LetterCombinationsOfPhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.LetterCombinationsOfPhoneNumber" />
       <module name="Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,19 +142,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MinimumSizeSubarraySum" />
       <item itemvalue="Application.StringToInteger" />
       <item itemvalue="Application.FirstAndLastPosition" />
       <item itemvalue="Application.Power" />
       <item itemvalue="Application.Sqrt" />
+      <item itemvalue="Application.LetterCombinationsOfPhoneNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LetterCombinationsOfPhoneNumber" />
         <item itemvalue="Application.Sqrt" />
         <item itemvalue="Application.Power" />
         <item itemvalue="Application.FirstAndLastPosition" />
         <item itemvalue="Application.StringToInteger" />
-        <item itemvalue="Application.MinimumSizeSubarraySum" />
       </list>
     </recent_temporary>
   </component>
