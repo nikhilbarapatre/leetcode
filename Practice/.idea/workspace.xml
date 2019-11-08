@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="734a1b88-760c-480d-a914-c89dc4d87d5f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Trees/MaxDiffBetweenNodeAndAncestor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,20 +44,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ZigZagConversion">
+  <component name="RunManager" selected="Application.MystrStr">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstAndLastPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.FirstAndLastPosition" />
+    <configuration name="LetterCombinationsOfPhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.LetterCombinationsOfPhoneNumber" />
       <module name="Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LetterCombinationsOfPhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.LetterCombinationsOfPhoneNumber" />
+    <configuration name="MystrStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.MystrStr" />
       <module name="Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -142,19 +141,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FirstAndLastPosition" />
       <item itemvalue="Application.Power" />
       <item itemvalue="Application.Sqrt" />
       <item itemvalue="Application.LetterCombinationsOfPhoneNumber" />
       <item itemvalue="Application.ZigZagConversion" />
+      <item itemvalue="Application.MystrStr" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MystrStr" />
         <item itemvalue="Application.ZigZagConversion" />
         <item itemvalue="Application.LetterCombinationsOfPhoneNumber" />
         <item itemvalue="Application.Sqrt" />
         <item itemvalue="Application.Power" />
-        <item itemvalue="Application.FirstAndLastPosition" />
       </list>
     </recent_temporary>
   </component>
