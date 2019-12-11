@@ -20,6 +20,24 @@ public class LRUCache {
         return node.val;
     }
 
+    public void put(int key, int value){
+        if(map.containsKey(key)){
+            Node node = map.get(key);
+            node.val = value;
+            remove(node);
+            moveToHead(node);
+        }
+        else{
+            if(map.size() == capacity){
+                map.remove(tail.prev.key);
+                remove(tail.prev);
+            }
+            Node node = new Node(key,value);
+            moveToHead(node);
+            map.put(key, node);
+        }
+    }
+
     private void join(Node n1, Node n2){
         n1.next = n2;
         n2.prev = n1;
@@ -45,5 +63,18 @@ public class LRUCache {
             this.key = key;
             this.val = val;
         }
+    }
+
+    public static void main(String[] args) {
+        LRUCache lru = new LRUCache(2);
+        lru.put(1, 1);
+        lru.put(2, 2);
+        System.out.println(lru.get(1));
+        lru.put(3, 3);
+        System.out.println(lru.get(2));
+        lru.put(4, 4);
+        System.out.println(lru.get(1));
+        System.out.println(lru.get(3));
+        System.out.println(lru.get(4));
     }
 }

@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="734a1b88-760c-480d-a914-c89dc4d87d5f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BFS/TowerUpdate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/TowerClusters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/UncommonWordsFrom2Sentences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heap/KClosestPointToOrigin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumCostToConnectSticks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LRUCache$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LRUCache$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LRUCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/ReverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/ReverseLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/TowerClusters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/TowerUpdate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BFS/RottenOranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BFS/RottenOranges.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashTable/TopKFrequentElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashTable/TopKFrequentElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LRUCache.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,15 +54,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TowerUpdate">
+  <component name="RunManager" selected="Application.Find132Pattern">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumAbsoluteDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.MinimumAbsoluteDifference" />
+    <configuration name="Find132Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Find132Pattern" />
       <module name="Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -69,32 +75,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TowerClusters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS.TowerClusters" />
-      <module name="Practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TowerUpdate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BFS.TowerUpdate" />
-      <module name="Practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UncommonWordsFrom2Sentences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.UncommonWordsFrom2Sentences" />
+    <configuration name="KClosestPointToOrigin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heap.KClosestPointToOrigin" />
       <module name="Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.*" />
+          <option name="PATTERN" value="Heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LRUCache" />
+      <module name="Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumCostToConnectSticks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumCostToConnectSticks" />
+      <module name="Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="print" />
+    <configuration name="solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution" />
       <module name="Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -139,19 +145,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.print" />
-      <item itemvalue="Application.MinimumAbsoluteDifference" />
-      <item itemvalue="Application.UncommonWordsFrom2Sentences" />
-      <item itemvalue="Application.TowerClusters" />
-      <item itemvalue="Application.TowerUpdate" />
+      <item itemvalue="Application.KClosestPointToOrigin" />
+      <item itemvalue="Application.solution" />
+      <item itemvalue="Application.MinimumCostToConnectSticks" />
+      <item itemvalue="Application.LRUCache" />
+      <item itemvalue="Application.Find132Pattern" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TowerUpdate" />
-        <item itemvalue="Application.TowerClusters" />
-        <item itemvalue="Application.UncommonWordsFrom2Sentences" />
-        <item itemvalue="Application.MinimumAbsoluteDifference" />
-        <item itemvalue="Application.print" />
+        <item itemvalue="Application.Find132Pattern" />
+        <item itemvalue="Application.LRUCache" />
+        <item itemvalue="Application.MinimumCostToConnectSticks" />
+        <item itemvalue="Application.solution" />
+        <item itemvalue="Application.KClosestPointToOrigin" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +199,16 @@
           <url>file://$PROJECT_DIR$/src/String/GeneratePhrases.java</url>
           <line>8</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LRUCache.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LRUCache.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
