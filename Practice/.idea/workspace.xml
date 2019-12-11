@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="734a1b88-760c-480d-a914-c89dc4d87d5f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Heap/KClosestPointToOrigin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumCostToConnectSticks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/WordLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/NumberOfDistinctIslands.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LRUCache$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LRUCache$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LRUCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/ReverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/ReverseLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/TowerClusters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/TowerUpdate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BFS/RottenOranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BFS/RottenOranges.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashTable/TopKFrequentElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashTable/TopKFrequentElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LRUCache.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Find132Pattern">
+  <component name="RunManager" selected="Application.TopKFrequentWords">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -75,8 +67,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KClosestPointToOrigin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heap.KClosestPointToOrigin" />
+    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LRUCache" />
+      <module name="Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOfDistinctIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS.NumberOfDistinctIslands" />
+      <module name="Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopKFrequentWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heap.TopKFrequentWords" />
       <module name="Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -89,31 +103,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LRUCache" />
+    <configuration name="WordLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFS.WordLadder" />
       <module name="Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinimumCostToConnectSticks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinimumCostToConnectSticks" />
-      <module name="Practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solution" />
-      <module name="Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -145,19 +149,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.KClosestPointToOrigin" />
-      <item itemvalue="Application.solution" />
-      <item itemvalue="Application.MinimumCostToConnectSticks" />
       <item itemvalue="Application.LRUCache" />
       <item itemvalue="Application.Find132Pattern" />
+      <item itemvalue="Application.WordLadder" />
+      <item itemvalue="Application.NumberOfDistinctIslands" />
+      <item itemvalue="Application.TopKFrequentWords" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TopKFrequentWords" />
+        <item itemvalue="Application.NumberOfDistinctIslands" />
+        <item itemvalue="Application.WordLadder" />
         <item itemvalue="Application.Find132Pattern" />
         <item itemvalue="Application.LRUCache" />
-        <item itemvalue="Application.MinimumCostToConnectSticks" />
-        <item itemvalue="Application.solution" />
-        <item itemvalue="Application.KClosestPointToOrigin" />
       </list>
     </recent_temporary>
   </component>
